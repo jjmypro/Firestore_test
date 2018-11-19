@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "45086657609",
+    "firebase_url": "https://firestoretest-90bf9.firebaseio.com",
+    "project_id": "firestoretest-90bf9",
+    "storage_bucket": "firestoretest-90bf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45086657609:android:4e514b31f4439ab8",
+        "android_client_info": {
+          "package_name": "jjmypro.com.github.firestore_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45086657609-0mrgm8dsfpmk6pk2or7fmvi3qq3cn1lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2x17cAz4TskZ3HLMOC5jrT7kIQD11N4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
